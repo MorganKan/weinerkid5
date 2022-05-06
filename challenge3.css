@@ -3,11 +3,16 @@
      padding:0;
 }
 
+body {
+    background-color:fuchsia;
+}
+
 ul {
 
     background-color:black;
     list-style-type:none;
     padding:20px;
+    text-align:center;
 }
 
 a {
@@ -15,6 +20,7 @@ a {
     color:white;
     padding:20px;
     background-color:black;
+   
 
 }
 
@@ -29,5 +35,16 @@ li:hover a {
 
 }
 
+.main {
+    width:80%;
+    background-color:yellow;
+    margin:20px auto;
+    
+}
+
+
+section img {
+    width:100%;
+}
 
 
