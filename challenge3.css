@@ -1,0 +1,33 @@
+ * {
+     margin:0;
+     padding:0;
+}
+
+ul {
+
+    background-color:black;
+    list-style-type:none;
+    padding:20px;
+}
+
+a {
+    text-decoration:none;
+    color:white;
+    padding:20px;
+    background-color:black;
+
+}
+
+li {
+    display:inline-block;
+   
+}
+
+li:hover a {
+    color:black;
+    background-color:lightgray;
+
+}
+
+
+
